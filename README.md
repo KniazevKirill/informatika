@@ -1,0 +1,2 @@
+# informatika
+my code
